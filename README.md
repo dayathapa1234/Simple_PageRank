@@ -1,2 +1,2 @@
-# Simple_-PageRank-
+# Simple_PageRank
 First project using python and sql
